@@ -7,7 +7,7 @@ dash-jquery-zh
 
 docset feed url:
 ```
-https://raw.githubusercontent.com/magicsky/dash-underscore.string-zh/master/underscore.string-zh.xml
+https://raw.githubusercontent.com/magicsky/dash-jquery-zh/master/jquery-zh.xml
 ```
 
 使用:
@@ -15,6 +15,6 @@ https://raw.githubusercontent.com/magicsky/dash-underscore.string-zh/master/unde
 
 运行：
 ```
-./underscore.string.py
+./jquery.py
 ```
 
